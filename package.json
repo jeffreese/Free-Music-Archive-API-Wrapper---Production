@@ -1,0 +1,26 @@
+{
+  "name": "free-music-archive-api-wrapper",
+  "version": "0.2.5",
+  "description": "simple server",
+  "engines": {
+    "node": "5.9.1"
+  },
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "ejs": "2.4.1",
+    "express": "4.13.3"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/jeffreese/Free-Music-Archive-API-Wrapper---Production"
+  },
+  "keywords": [
+    "node",
+    "heroku",
+    "express"
+  ],
+  "license": "MIT"
+}
